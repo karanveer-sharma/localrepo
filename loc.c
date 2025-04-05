@@ -10,7 +10,16 @@ int main(){
     sum = a + b;
 
     printf("the sum is :", sum);
-    return 0;
+    
 
     int d, c;
+printf("entre age");
+scanf("%d", &d);
+
+if(d>18){
+    printf("can vote");
+}
+else{printf("cannot vote");}
+
+    return 0;
 }
