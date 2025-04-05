@@ -11,4 +11,6 @@ int main(){
 
     printf("the sum is :", sum);
     return 0;
+
+    int d, c;
 }
